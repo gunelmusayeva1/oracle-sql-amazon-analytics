@@ -193,3 +193,4 @@ The queries solve real business problems — such as monthly sales growth, top-s
 
 
 [linkedin]: https://linkedin.com/in/gunel-musayeva-aa88651aa
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/gunelmusayeva1)
